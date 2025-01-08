@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_2737b1ac-27f7-4e95-9406-0da3c73a78fa",
+      "org_id": "user_e006c2d5-093c-4b96-93ba-2bfbdcdc5000",
+      "deploy_url": "https://github.com/vamsigajula14/Hello_world.git",
+      "git_ssh_url": "https://github.com/vamsigajula14/Hello_world.git",
+      "name": "Hello_world",
+      "alias": "Hello_world"
+    }
+  ]
+}
