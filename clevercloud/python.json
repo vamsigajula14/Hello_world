@@ -3,5 +3,5 @@
     "env": "production",
     "buildpacks": []
   },
-  "start": "python main.py"
+  "start": "python app.py"
 }
