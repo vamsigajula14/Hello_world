@@ -1,0 +1,7 @@
+{
+  "deploy": {
+    "env": "production",
+    "buildpacks": []
+  },
+  "start": "python main.py"
+}
